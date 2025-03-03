@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Muhammad Syuja Al Abid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .Container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .profile-img {
+            width: 150px;
+            display: block;
+            margin: 0 auto;
+        }
+        .Contact-info, .Section, .Education, .Experience_Achievements, .Skills {
+            margin-top: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="Container">
+        <img src="fotountukcv.jpg" alt="Muhammad S yuja Al Abid" class="profile-img">
+        <h1>Muhammad Syuja Al Abid</h1>
+        <p><strong>Status:</strong> Information Systems Student, Telkom University Jakarta</p>
+        
+        <div class="Contact-info">
+            <h2>Kontak</h2>
+            <p>Telepon: +62 815-8484-4763</p>
+            <p>Email: muhammadsyuja04@gmail.com</p>
+            <p>Instagram: @m.syujaalabid_</p>
+            <p>Alamat: Jl Kirai. GG Kirai 2 No 35b</p>
+        </div>
+
+        <div class="Section">
+            <h2>Tentang Saya</h2>
+            <p>Mahasiswa yang memiliki keinginan untuk belajar dan berkembang di dunia kerja. Memiliki kemampuan untuk memenuhi syarat bekerja di negeri KORUP. Mampu bekerja secara solo maupun team, mampu mengatur waktu dengan baik untuk menyeimbangkan antara pekerjaan dan pendidikan.</p>
+        </div>
+
+        <div class="Education">
+            <h2>Pendidikan</h2>
+            <p><strong>SMAN 6 Jakarta</strong> - (2020-2023)</p>
+            <p><strong>Telkom University Jakarta</strong> (2023 - Now)</p>
+        </div>
+
+        <div class="Experience_Achievements">
+            <h2>Pengalaman & Pencapaian</h2>
+            <ul>
+                <li>Became a leader in the Angklung organization at SMPN 13 JAKARTA</li>
+                <li>Became a leader in the PMR organization at SMPN 13 JAKARTA</li>
+                <li>Get 15K followers on TikTok and befriended several influencers</li>
+                <li>Get paid by some of the top brand endorsement</li>
+            </ul>
+        </div>
+
+        <div class="Skills">
+            <h2>Keterampilan</h2>
+            <ul>
+                <li>Microsoft Word</li>
+                <li>Microsoft PowerPoint</li>
+                <li>Problem Solving</li>
+                <li>Team Work</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
